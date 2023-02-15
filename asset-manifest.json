@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profile-fetcher/static/css/main.87251704.css",
+    "main.js": "/profile-fetcher/static/js/main.60b29547.js",
+    "static/js/787.bc7d429a.chunk.js": "/profile-fetcher/static/js/787.bc7d429a.chunk.js",
+    "index.html": "/profile-fetcher/index.html",
+    "main.87251704.css.map": "/profile-fetcher/static/css/main.87251704.css.map",
+    "main.60b29547.js.map": "/profile-fetcher/static/js/main.60b29547.js.map",
+    "787.bc7d429a.chunk.js.map": "/profile-fetcher/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87251704.css",
+    "static/js/main.60b29547.js"
+  ]
+}
